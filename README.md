@@ -1,8 +1,8 @@
 # Computer-team
 INTEGRANTES: 
 
-Lucas Sarmiento
+Lucas Sarmiento - Legajo N° 10.510
 
-Francisco Redondo 
+Francisco Redondo - Legajo N° 10.492
 
-Santiago Micieli
+Santiago Micieli - Legajo N° 
